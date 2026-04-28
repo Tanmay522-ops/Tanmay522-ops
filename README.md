@@ -1,6 +1,3 @@
-
-![banner](./banner.png)
-
 <h1 align="center">Hey there, I'm Tanmay 👋</h1>
 
 <p align="center">
