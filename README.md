@@ -60,7 +60,7 @@ and real-time monetization into a single, seamless ecosystem.
 
 **Deployment:** Docker · Hostinger VPS · Coolify CI/CD
 
-[![View Project](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tanmay522-ops/sellnix)
+[![View Project](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tanmay522-ops/Webnixx)
 
 
 ---
