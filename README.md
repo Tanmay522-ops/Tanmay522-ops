@@ -1,4 +1,4 @@
-<img align="right" width="300" height="300" alt="developer" src="https://github.com/user-attachments/assets/42b64d6f-da7d-44b6-b677-65bd15efcca7" />
+<img align="right" width="400" height="350" alt="developer" src="https://github.com/user-attachments/assets/42b64d6f-da7d-44b6-b677-65bd15efcca7" />
 
 <h1>Hey there, I'm Tanmay 👋</h1>
 
@@ -8,6 +8,7 @@
 
 <p>
 🔭 Currently building projects that solve real world problems<br/>
+  
 🤖 Working on building AI Agents and seamless RAG pipelines
 </p>
 
