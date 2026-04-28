@@ -1,8 +1,20 @@
-<h1 align="center">Hey there, I'm Tanmay 👋</h1>
+<img align="right" width="300" height="300" alt="developer" src="https://github.com/user-attachments/assets/42b64d6f-da7d-44b6-b677-65bd15efcca7" />
 
-<p align="center">
-  <b>Backend Developer</b> · Building robust systems & scalable APIs
+<h1>Hey there, I'm Tanmay 👋</h1>
+
+<p><b>Backend Developer</b> · Building robust systems & scalable APIs</p>
+
+<br/>
+
+<p>
+🔭 Currently building projects that solve real world problems<br/>
+🤖 Working on building AI Agents and seamless RAG pipelines
 </p>
+
+<br clear="right"/>
+
+
+
 
 ---
 
