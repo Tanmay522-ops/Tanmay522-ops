@@ -1,7 +1,7 @@
-<img align="right" width="400"  alt="developer" src="https://github.com/user-attachments/assets/42b64d6f-da7d-44b6-b677-65bd15efcca7" />
+<img align="right" width="200"  alt="developer" src="https://github.com/user-attachments/assets/42b64d6f-da7d-44b6-b677-65bd15efcca7" />
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?size=34&duration=2500&pause=1000&color=00FFAA&vCenter=true&width=500&lines=Hey+there,+I'm+Tanmay+👋" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2500&pause=1000&color=00FFAA&vCenter=true&width=500&lines=Hey+there,+I'm+Tanmay+👋" />
 </p>
 
 <p><b>Backend Developer</b> : Who Building robust systems 
