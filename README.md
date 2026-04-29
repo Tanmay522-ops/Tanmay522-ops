@@ -4,6 +4,14 @@
 
 <p><b>Backend Developer</b> · Building robust systems & scalable APIs</p>
 
+## 👨‍💻 About Me
+
+I’m Tanmay Kumar, a backend developer who focuses on building reliable, scalable systems.
+
+My work revolves around APIs, databases, and backend architecture, with an emphasis on performance and production-ready design. Lately, I’ve been working on AI agents and RAG pipelines, exploring how they can be applied in real-world systems.
+
+I enjoy building things that solve actual problems and refining them until they hold up in production.
+
 <br/>
 
 <p>
