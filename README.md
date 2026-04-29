@@ -2,7 +2,7 @@
 
 <h1>Hey there, I'm Tanmay 👋</h1>
 
-<p><b>Backend Developer</b>: Who Building robust systems & scalable APIs</p>
+<p><b>Backend Developer</b> : Who Building robust systems & scalable APIs</p>
 
 ## 👨‍💻 About Me
 
