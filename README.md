@@ -14,15 +14,6 @@
 
 <br clear="right"/>
 
-
-
-
----
-
-## About Me 🚀
-
-- 🔭 Currently building projects that solve real world problems
-- 🤖 Working on building AI Agents and seamless RAG pipelines
 ---
 
 ## Tech Stack 🛠️
@@ -51,9 +42,9 @@
 
 ## Projects 💻
 
-### 🎯 SellNix — AI-Powered Webinar SaaS Platform
+### 🎯 WebNix — AI-Powered Webinar SaaS Platform
 
-SellNix is a full-stack SaaS platform that redefines how marketers and business
+WebNix is a full-stack SaaS platform that redefines how marketers and business
 owners run live webinars. It combines live streaming, AI-driven sales automation,
 and real-time monetization into a single, seamless ecosystem.
 
