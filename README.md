@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2500&pause=1000&color=00FFAA&vCenter=true&width=500&lines=Hey+there,+I'm+Tanmay+👋" />
 </p>
 
-<p><b>Backend Developer</b> : Who Building robust systems 
+<p><b>Backend Developer</b> : Who Building robust systems. 
   </br>
   & scalable APIs</p>
 
