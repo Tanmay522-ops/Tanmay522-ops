@@ -61,10 +61,10 @@ owners run live webinars. It combines live streaming, AI-driven sales automation
 and real-time monetization into a single, seamless ecosystem.
 
 **What it does:**
-- 📡 **Live Streaming** — Built-in video infrastructure with OBS broadcasting support
-- 🤖 **AI Sales Agents** — create voice agents that handle automated, human-like sales calls and lead interactions during live streams
-- 💳 **Payments & Monetization** — Full Payment integration for subscriptions, in-stream product purchases, and automated payouts
-- 📊 **Lead Pipeline** — Track attendee engagement, conversion metrics, and sales progress in real time
+- 📡 **Live Streaming** — Built-in video infrastructure with OBS broadcasting support.
+- 🤖 **AI Sales Agents** — create voice agents that handle automated, human-like sales calls and lead interactions during live streams.
+- 💳 **Payments & Monetization** — Full Payment integration for subscriptions, in-stream product purchases, and automated payouts.
+- 📊 **Lead Pipeline** — Track attendee engagement, conversion metrics, and sales progress in real time.
 
 **Tech Stack:**
 
