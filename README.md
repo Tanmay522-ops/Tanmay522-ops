@@ -74,7 +74,7 @@ and real-time monetization into a single, seamless ecosystem.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)
 
-**Deployment:** Docker · Hostinger VPS · Coolify CI/CD
+**Deployment:** Docker · Hostinger VPS · Coolify CI/CD.
 
 <p>
   🔗 <a href="https://github.com/Tanmay522-ops/Webnixx">View Project</a>
