@@ -6,7 +6,7 @@
 
 <p><b>Backend Developer</b> : Who Building robust systems. 
   </br>
-  & scalable APIs</p>
+  & scalable APIs.</p>
 
 ## 👨‍💻 About Me
 
