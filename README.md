@@ -19,7 +19,7 @@ I enjoy building things that solve actual problems and refining them until they 
 <br/>
 
 <p>
-🔭 Currently building projects that solve real world problems<br/>
+🔭 Currently building projects that solve real world problems.<br/>
   
 🤖 Working on building AI Agents and seamless RAG pipelines.
 </p>
