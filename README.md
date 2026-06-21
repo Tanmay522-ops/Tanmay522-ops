@@ -81,7 +81,7 @@ and real-time monetization into a single, seamless ecosystem.
 </p>
 
 ---
-💎 **Cliporra — Real-Time AI Video Sharing SaaS**
+### 🎯 Real-Time AI Video Sharing SAAS
 
 Cliporra is a full-stack SaaS platform that revolutionizes client outreach for freelancers, agency owners, and business owners. It replaces traditional cold outreach with personalized, AI-enhanced video communication, combining real-time streaming infrastructure, native desktop recording, and context-aware AI interactions into a seamless ecosystem.
 
