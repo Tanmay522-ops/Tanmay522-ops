@@ -105,7 +105,9 @@ Cliporra is a full-stack SaaS platform that revolutionizes client outreach for f
 
 **Deployment:** Vercel (Web) · Railway (Server) · GitHub Releases (Desktop App)
 
-🔗 [View Project](your-link-here)
+<p>
+  🔗 <a href="https://github.com/Tanmay522-ops/cliporra-main">View Project</a>
+</p>
 
 ---
 
