@@ -81,6 +81,23 @@ and real-time monetization into a single, seamless ecosystem.
 </p>
 
 ---
+💎 Cliporra — Real-Time AI Video Sharing SaaS
+Cliporra is a full-stack SaaS platform that revolutionizes client outreach for freelancers, agency owners, and business owners
+. It replaces traditional cold outreach with personalized, AI-enhanced video communication, combining real-time streaming infrastructure, native desktop recording, and context-aware AI interactions into a seamless ecosystem
+.
+What it does:
+🎥 Real-Time Streaming — Custom-built video infrastructure that saves and streams video chunks instantly using AWS S3 buckets and CloudFront for low-latency delivery
+.
+💻 Native Desktop App — A multi-platform recording plugin built with Electron.js that allows users to capture their camera, microphone, and screen simultaneously
+.
+🤖 AI Video Insights — Automated transcription  and intelligent title and summary generation powered by OpenAI
+.
+💬 Contextual AI Agent — An integrated AI assistant  that understands video context and answers viewer questions based on the specific transcript
+.
+🔔 Engagement Tracking — Real-time notifications sent to users the moment a prospect views their video, enabling immediate follow-up and higher conversion rates
+.
+📁 Personalized Workspaces — Collaborative environments featuring folder management, recursive commenting, and "Optimistic UI" for a blazing-fast user experience
+.
 
 ## Connect With Me 🌐
 
